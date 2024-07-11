@@ -9,7 +9,7 @@
     <a href="https://t.me/zokirovna_7670">
     <img src="https://img.shields.io/badge/youtube-white?logo=youtube&logoColor=red" alt ="Bu youtube"/>
   </a>
-    <a href="https://t.me/zokirovna_7670">
+    <a href="https://t.me/asmo_7760">
     <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white" alt ="Bu intagram"/>
   </a>
     <a href="https://t.me/zokirovna_7670">
