@@ -6,18 +6,16 @@
   <a href="(https://t.me/zokirovna_7670)">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt ="Bu telegram"/>
   </a>
-    <a href="https://t.me/zokirovna_7670">
+    <a href="https://t.me/MargubaLapasova">
     <img src="https://img.shields.io/badge/youtube-white?logo=youtube&logoColor=red" alt ="Bu youtube"/>
   </a>
     <a href="https://t.me/asmo_7760">
     <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white" alt ="Bu intagram"/>
   </a>
-    <a href="https://t.me/zokirovna_7670">
+    <a href="https://t.me/lapasovamarguba">
     <img src="https://img.shields.io/badge/facebook-white?logo=facebook&logoColor=blue" alt ="Bu facebook"/>
     </a>
-      <a href="https://t.me/zokirovna_7670">
-    <img src="https://img.shields.io/badge/twitter-black?logo=x&logoColor=white" alt ="Bu twitter"/>
-    </a>
+     
 <br>
   <img src="https://komarev.com/ghpvc/?username=lapasovamarguba&label=Margubaning+korishlari+soni" alt=""/>
   
