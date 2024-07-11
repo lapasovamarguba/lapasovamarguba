@@ -28,7 +28,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lapasovamarguba" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatullayevamohichehra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lapasovamargubaa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
