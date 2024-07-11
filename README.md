@@ -1,6 +1,6 @@
 <h1>Marguba</h1>
 <div>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzI2emppOXZ0czE0YXBucGs0anVtYjd5OXIyYjV1cXVkaG1zdzJ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jAe22Ec5iICCk/giphy.gif"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzgyMGNjd3B1em9oaWJqMG50cHczbXA1c3RlbjkyYXllOXMwemEyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c76IJLufpNwSULPk77/giphy.gif"/>
 </div>
 <div id"badges">
   <a href="(https://t.me/zokirovna_7670)">
